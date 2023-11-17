@@ -1,0 +1,5 @@
+# To run:
+find . -name "*.c" | entr make 
+That will auto update the package accordingly
+
+run the file at the ./makefile/bin
